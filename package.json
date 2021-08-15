@@ -8,6 +8,7 @@
     "mongodb": "^4.1.0",
     "mongoose": "^5.13.7",
     "my-sql": "^1.2.15",
+    "nodemon": "^2.0.12",
     "wokcommands": "^1.3.6"
   },
   "devDependencies": {},
