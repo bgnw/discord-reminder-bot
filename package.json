@@ -4,7 +4,11 @@
   "description": "A reminder bot for Discord - developed by @bgnw",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "my-sql": "^1.2.15",
+    "wokcommands": "^1.3.6"
   },
   "devDependencies": {},
   "scripts": {
