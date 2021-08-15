@@ -1,0 +1,1 @@
+const Discord = require('discord.js');const config = require('./config.json');const client = new Discord.Client();client.once("ready", () => {    console.log("Discord Reminders bot loaded");});client.on("message" ,message => {    if (message.content === ".checkbot") {        message.channel.send("bot is up");    }});client.login(config.BOT_TOKEN);

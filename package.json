@@ -1,0 +1,15 @@
+{
+  "name": "discord-reminders-bot",
+  "version": "1.0.0",
+  "description": "A reminder bot for Discord - developed by @bgnw",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
